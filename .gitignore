@@ -1,0 +1,13 @@
+# local
+unused_files
+.env
+.envrc
+.python-version
+
+# cache
+.DS_Store
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+*.ipynb_checkpoints
+chord_cleaning.egg-info
