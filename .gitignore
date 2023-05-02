@@ -3,6 +3,7 @@ unused_files
 .env
 .envrc
 .python-version
+build/lib/py_files
 
 # cache
 .DS_Store
