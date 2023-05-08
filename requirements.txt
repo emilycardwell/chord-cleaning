@@ -2,3 +2,5 @@ pandas
 matplotlib
 mingus
 MIDIUtil
+ipykernel
+fluidsynth
