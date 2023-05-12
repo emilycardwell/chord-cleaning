@@ -3,3 +3,4 @@ matplotlib
 mingus
 MIDIUtil
 ipykernel
+fluidsynth
