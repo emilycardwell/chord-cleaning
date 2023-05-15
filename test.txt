@@ -3,3 +3,5 @@
 # tap "homebrew/core"
 
 brew "fluid-synth"
+brew "pyenv"
+brew "direnv"
