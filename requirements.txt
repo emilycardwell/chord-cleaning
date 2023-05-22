@@ -1,6 +1,8 @@
 pandas
 matplotlib
 mingus
-MIDIUtil
 ipykernel
-pyFluidSynth
+pretty_midi
+pyfluidsynth
+streamlit
+requests
